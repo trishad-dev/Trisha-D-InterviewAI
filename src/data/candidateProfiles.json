@@ -1,0 +1,67 @@
+[
+  {
+    "candidateId": "cand-001",
+    "name": "Aisha Patel",
+    "role": "ML Engineer",
+    "completedDays": [1, 2, 3, 4, 5],
+    "skippedDays": [9],
+    "attempts": [
+      { "day": 3, "count": 3 },
+      { "day": 4, "count": 2 },
+      { "day": 7, "count": 1 }
+    ],
+    "signals": [
+      "Strong on RAG architecture and chunking",
+      "Struggled with vector index internals on retry",
+      "Completed prompt engineering but no advanced patterns yet"
+    ]
+  },
+  {
+    "candidateId": "cand-002",
+    "name": "Marcus Chen",
+    "role": "Backend Developer",
+    "completedDays": [3, 4, 5, 6, 7, 8],
+    "skippedDays": [1, 2],
+    "attempts": [
+      { "day": 7, "count": 2 },
+      { "day": 8, "count": 1 }
+    ],
+    "signals": [
+      "Deep on agentic patterns and multi-agent orchestration",
+      "Skipped ML fundamentals — may have gaps in theory",
+      "Strong prompt engineering across basic and advanced"
+    ]
+  },
+  {
+    "candidateId": "cand-003",
+    "name": "Sofia Reyes",
+    "role": "AI Researcher",
+    "completedDays": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "skippedDays": [],
+    "attempts": [
+      { "day": 9, "count": 2 },
+      { "day": 10, "count": 1 }
+    ],
+    "signals": [
+      "Completed entire curriculum — strong all-rounder",
+      "MCP and deployment are the freshest topics",
+      "Research background shows in theoretical depth"
+    ]
+  },
+  {
+    "candidateId": "cand-004",
+    "name": "James O'Connor",
+    "role": "DevOps Engineer",
+    "completedDays": [9, 10],
+    "skippedDays": [1, 2, 3, 4, 5, 6],
+    "attempts": [
+      { "day": 9, "count": 1 },
+      { "day": 10, "count": 3 }
+    ],
+    "signals": [
+      "Strong on MCP and deployment infrastructure",
+      "Skipped all ML and RAG fundamentals",
+      "Deployment took multiple attempts — may need deeper probing"
+    ]
+  }
+]
