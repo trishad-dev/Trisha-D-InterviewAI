@@ -124,4 +124,4 @@ Full prompt history and AI-assisted development log available in AI_USAGE_LOG.md
 
 ## Author
 
-Built solo by Trisha for the AB Talks Hackathon.
+Built solo by Trisha.D for the AB Talks hosted ViCodathon.
